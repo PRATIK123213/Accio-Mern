@@ -1,4 +1,4 @@
-/* Print sum of each subarray */
+/* Print sum of each subarray */ 
 function printSubarraySum(arr) {
   let n = arr.length;
 
